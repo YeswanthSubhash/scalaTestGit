@@ -7,6 +7,13 @@
     <groupId>com.yeswanth.digital</groupId>
     <artifactId>scalaTestGit</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <pluginRepositories>
+        <pluginRepository>
+            <id>scala-tools.org</id>
+            <name>Scala-tools Maven2 Repository</name>
+            <url>http://scala-tools.org/repo-releases</url>
+        </pluginRepository>
+    </pluginRepositories>
 
     <dependencies>
     <!-- https://mvnrepository.com/artifact/org.scala-lang/scala-library -->
